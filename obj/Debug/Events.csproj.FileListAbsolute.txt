@@ -1,0 +1,7 @@
+C:\Documents\CSharp\TestProject\Events\bin\Debug\Events.exe.config
+C:\Documents\CSharp\TestProject\Events\bin\Debug\Events.exe
+C:\Documents\CSharp\TestProject\Events\bin\Debug\Events.pdb
+C:\Documents\CSharp\TestProject\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Documents\CSharp\TestProject\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Documents\CSharp\TestProject\Events\obj\Debug\Events.exe
+C:\Documents\CSharp\TestProject\Events\obj\Debug\Events.pdb
